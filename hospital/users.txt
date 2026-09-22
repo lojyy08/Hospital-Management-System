@@ -1,0 +1,12 @@
+admin,admin123,Admin
+dr.mona,mona123,Doctor
+dr.khaled,khaled456,Doctor
+dr.sara,sara789,Doctor
+ahmed.ali,ahmed123,Patient
+nour.ibrahim,nour456,Patient
+omar.sayed,omar789,Patient
+mohamed,mo123,Patient
+Marina,2512006,Doctor
+marina,2512006,Patient
+karin,333,Doctor
+karin1,karin123,Patient
